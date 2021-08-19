@@ -42,8 +42,7 @@ I am Ph.D. student in Department of Mechatronics Engineering at Chungnam Nationa
 
 ## Github Stats
 
-![Hansol Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=messy-snail&show_icons=true&theme=tokyonight)
-
+![Hansol Kang's GitHub stats](https://github-readme-stats.vercel.app/api?username=messy-snail&count_private=true&hide=stars&line_height=24&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=messy-snail&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 
