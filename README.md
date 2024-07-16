@@ -5,7 +5,7 @@
 <a href="https://www.slideshare.net/khsol92"><img src="https://img.shields.io/badge/slideshare-008ED2?style=flat-square&logo=SlideShare&logoColor=white"/></a>
 
 ## Hansol Kang
-I am Ph.D. student in Department of Mechatronics Engineering at Chungnam National University. My research interests are in the areas of computer vision, machine learning, and deep learning.
+I am a Ph.D. student in the Department of Mechatronics Engineering at Chungnam National University. My research interests are in the areas of generative models, computer vision, and reinforcement learning.
 
 <hr/>  
 
