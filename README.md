@@ -5,37 +5,55 @@
 <a href="https://www.slideshare.net/khsol92"><img src="https://img.shields.io/badge/slideshare-008ED2?style=flat-square&logo=SlideShare&logoColor=white"/></a>
 
 ## Hansol Kang
-I am a Ph.D. student in the Department of Mechatronics Engineering at Chungnam National University. My research interests are in the areas of generative models, computer vision, and reinforcement learning.
+### 📄 [View CV / Portfolio](https://messy-snail.github.io/cv/)
 
-<hr/>  
+> I am a software developer who values creating practical and reliable systems based on diverse experiences in fields like robotic vision, satellite ground stations, and web development.  
+> I enjoy rapid prototyping, continuous learning, and applying new technologies to solve real-world problems.
 
-## Technical Skills
-#### Main
+## Tech Stack 
+### 🧠 Programming / ML / Simulation
 <p>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Stable--Baseline3-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/IsaacSim-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Mujoco-000000?style=for-the-badge"/>
 </p>
 
-#### Sub
+### 🌐 Web / Backend / Database
 <p>
-<!-- <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=Keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/> -->
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=Html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Open3D-F78C40?style=flat-square&logoColor=white"/>
-</p>
-<hr/>  
-
-## Tools
-<p>
-<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
-<img src="https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=PyCharm&logoColor=white"/>
-<img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=VisualStudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=Vuetify&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"/>
+<img src="https://img.shields.io/badge/MS--SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white"/>
 </p>
 
+### 🤝 Collaboration / DevOps
+<p>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=Bitbucket&logoColor=white"/>
+<img src="https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=Confluence&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+</p>
+
+### 👁 Computer Vision / 3D / GPU
+<p>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=OpenCV&logoColor=white"/>
+<img src="https://img.shields.io/badge/Open3D-F78C40?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white"/>
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=NVIDIA&logoColor=white"/>
+</p>
+
+### 🖥 System / Environment
+<p>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/WSL-008000?style=for-the-badge"/>
+</p>
 
 
 <hr/>  
