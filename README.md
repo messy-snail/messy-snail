@@ -81,4 +81,4 @@ I also have experience building satellite ground station systems and practical w
 
 ## Activity
 
-![3D Contribution Calendar](./profile-3d-contrib/profile-night-view.svg)
+![3D Contribution Calendar](./profile-3d-contrib/profile-south-season-animate.svg)
